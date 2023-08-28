@@ -1,0 +1,16 @@
+{
+	"posts": [
+		{
+			"id": 1,
+			"title": "Welcome to the Blog",
+			"body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad aperiam at, blanditiis voluptates quis error aut voluptas sed! Soluta libero placeat in sunt vero corrupti fuga debitis et? Necessitatibus, soluta! Ipsum deleniti, ea debitis explicabo voluptatum suscipit? Repellat quisquam quam aspernatur nostrum! Quisquam sed assumenda illo nam? Dignissimos, sunt quaerat fuga itaque facilis libero! Cum mollitia repellendus libero iure, in qui possimus molestiae repudiandae ea? Accusantium consequatur voluptatum inventore magnam ducimus quia eligendi nostrum quaerat aliquam, ab quasi ipsa? Dolores assumenda minus accusamus nisi voluptates tempore iure excepturi vel illo exercitationem cupiditate dolorum ab culpa quos necessitatibus ea iste perspiciatis doloremque, nesciunt quisquam. Facilis ex quasi officiis, nam veritatis ab rerum maiores vero minus veniam. Veniam quia numquam ducimus eum atque fugit, perferendis quisquam temporibus odit officiis nulla hic, nihil repellat accusantium magni veritatis placeat aperiam iusto? Qui unde iure accusamus odio veniam, excepturi harum eos eveniet nostrum eum ad vitae impedit, quasi modi iste labore quas molestias explicabo, dolorem nesciunt asperiores. Fugiat animi corporis vitae aliquid aspernatur? Quaerat molestiae dolores voluptas earum sed illo sunt, voluptatibus doloribus facere repellat enim cumque, soluta nemo aliquam optio fuga odit saepe. Magni incidunt exercitationem dolorum nisi? Asperiores sequi deleniti quasi accusamus atque?",
+			"tags": ["webdev", "coding", "news"]
+		},
+		{
+			"id": 2,
+			"title": "Top 10 Anime Betrayal",
+			"body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad aperiam at, blanditiis voluptates quis error aut voluptas sed! Soluta libero placeat in sunt vero corrupti fuga debitis et? Necessitatibus, soluta! Ipsum deleniti, ea debitis explicabo voluptatum suscipit? Repellat quisquam quam aspernatur nostrum! Quisquam sed assumenda illo nam? Dignissimos, sunt quaerat fuga itaque facilis libero! Cum mollitia repellendus libero iure, in qui possimus molestiae repudiandae ea? Accusantium consequatur voluptatum inventore magnam ducimus quia eligendi nostrum quaerat aliquam, ab quasi ipsa? Dolores assumenda minus accusamus nisi voluptates tempore iure excepturi vel illo exercitationem cupiditate dolorum ab culpa quos necessitatibus ea iste perspiciatis doloremque, nesciunt quisquam. Facilis ex quasi officiis, nam veritatis ab rerum maiores vero minus veniam. Veniam quia numquam ducimus eum atque fugit, perferendis quisquam temporibus odit officiis nulla hic, nihil repellat accusantium magni veritatis placeat aperiam iusto? Qui unde iure accusamus odio veniam, excepturi harum eos eveniet nostrum eum ad vitae impedit, quasi modi iste labore quas molestias explicabo, dolorem nesciunt asperiores. Fugiat animi corporis vitae aliquid aspernatur? Quaerat molestiae dolores voluptas earum sed illo sunt, voluptatibus doloribus facere repellat enim cumque, soluta nemo aliquam optio fuga odit saepe. Magni incidunt exercitationem dolorum nisi? Asperiores sequi deleniti quasi accusamus atque?",
+			"tags": ["css", "webdev", "coding"]
+		}
+	]
+}
